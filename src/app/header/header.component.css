@@ -1,0 +1,10 @@
+.search-container{
+    background-color: black;
+}
+.search{
+    padding:5px;
+   
+}
+.search input{
+    width: 100%;;
+}

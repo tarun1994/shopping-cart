@@ -1,0 +1,22 @@
+.cart-label{
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+    padding-left: 10px;
+}
+.cart-header{
+    border: 1px solid;
+    height: 41px;
+    background-color: orange;
+}
+.input{
+    width:32px;
+    height: 30px;
+}
+.dropdown-menu{
+    left:-98px;
+   
+}
+.dropdown{
+    line-height: 0.8;
+}

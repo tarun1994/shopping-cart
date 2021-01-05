@@ -1,0 +1,10 @@
+.box{
+    height: 60px;
+    width: 110px;
+    border:1px solid;
+    display:flex;
+    justify-content: center;
+}
+.center{
+   align-self: center;
+}

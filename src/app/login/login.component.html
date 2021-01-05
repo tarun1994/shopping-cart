@@ -1,0 +1,5 @@
+<div class="login-container">
+   <div><input type="text" placeholder="Username" [(ngModel)]="uname" required pattern="^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"/></div>
+   <div> <input type="password" placeholder="Password" [(ngModel)]="pass" required/></div>
+<div> <button class="btn" (click)="check()">Submit</button></div>
+    </div>
